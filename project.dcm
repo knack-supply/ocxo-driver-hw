@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADC081S021CIMF
+D SPI-Compatible, 8-Bit Analog-to-Digital Converter, SOT23-6
+K ADC SPI 8-bit
+F http://www.ti.com/lit/ds/symlink/adc081s021.pdf
+$ENDCMP
+#
+$CMP ADC101S021CIMF
+D SPI-Compatible, 10-Bit Analog-to-Digital Converter, SOT23-6
+K ADC SPI 10-bit
+F http://www.ti.com/lit/ds/symlink/adc101s021.pdf
+$ENDCMP
+#
+$CMP ADC121S021CIMF
+D SPI-Compatible, 12-Bit Analog-to-Digital Converter, SOT23-6
+K ADC SPI 12-bit
+F http://www.ti.com/lit/ds/symlink/adc121s021.pdf
+$ENDCMP
+#
+$CMP AOCJY4
+D Abracon VCOCXO
+K OCXO
+F https://abracon.com/Precisiontiming/AOCJY4.pdf
+$ENDCMP
+#
+$CMP OH200
+D Connor Winfield OCXO/VCOCXO
+K OCXO VCOCXO
+F http://www.conwin.com/datasheets/cx/cx193.pdf
+$ENDCMP
+#
+#End Doc Library
